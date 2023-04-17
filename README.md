@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spiddacino
 - 👀 I’m interested in Machine Learning, AI and Data Analysis
-- 🌱 I’m currently learning application of various ML algorithms to solve business problem in different industries
+- 🌱 I’m currently implementing various ML algorithms to solve business problem in different industries
 - 💞️ I’m looking to collaborate on any business problem that requires solution based on available data
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/chidinmaokonta/)
 
